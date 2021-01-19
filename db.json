@@ -41,6 +41,42 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "name": "Vivek Sanghvi",
+      "image": "http://www.pngmart.com/files/3/Toy-Story-Woody-PNG-Photos.png",
+      "price": 66,
+      "id": 8
+    },
+    {
+      "name": "Vivek Sanghvi",
+      "image": "http://localhost:6002/images/aloe.jpg",
+      "price": 169,
+      "id": 9
+    },
+    {
+      "name": "woody 2.0",
+      "image": "http://localhost:6002/images/aloe.jpg",
+      "price": 999,
+      "id": 10
+    },
+    {
+      "name": "woody 2.0",
+      "image": "http://localhost:6002/images/aloe.jpg",
+      "price": 222,
+      "id": 11
+    },
+    {
+      "name": "woody 2.0",
+      "image": "http://www.pngmart.com/files/3/Toy-Story-Woody-PNG-Photos.png",
+      "price": 222,
+      "id": 12
+    },
+    {
+      "name": "woody 2.0",
+      "image": "http://www.pngmart.com/files/3/Toy-Story-Woody-PNG-Photos.png",
+      "price": 666,
+      "id": 13
     }
   ]
 }
